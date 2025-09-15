@@ -514,5 +514,77 @@
   {
     "p_name": "com.alibaba.dingtalk.global",
     "a_name": "DingTalk Lite"
+  },
+  {
+    "p_name": "com.app.dream11Pro",
+    "a_name": "Dream 11"
+  },
+  {
+    "p_name": "com.games24x7.my11circle.fantasycricket",
+    "a_name": "My 11 Circle"
+  },
+  {
+    "p_name": "com.litegames.rummy_free__aat_google",
+    "a_name": "Online Rummy"
+  },
+  {
+    "p_name": "com.mpl.androidapp",
+    "a_name": "MPL"
+  },
+  {
+    "p_name": "in.a23.rummy",
+    "a_name": "A23 Game"
+  },
+  {
+    "p_name": "com.baazigames.pokerbaazi.practice",
+    "a_name": "Poker Baazi"
+  },
+  {
+    "p_name": "com.betway.tza",
+    "a_name": "Betway"
+  },
+  {
+    "p_name": "org.xbet.client11",
+    "a_name": "1x Bet"
+  },
+  {
+    "p_name": "org.bet22.client",
+    "a_name": "22 Bet"
+  },
+  {
+    "p_name": "org.melbet.client",
+    "a_name": "MelBet"
+  },
+  {
+    "p_name": "com.adda52.rummyapp.addarummy",
+    "a_name": "Adda 52"
+  },
+  {
+    "p_name": "com.funexperience.dafabet",
+    "a_name": "Dafabet"
+  },
+  {
+    "p_name": "com.ads.mostbet",
+    "a_name": "Most Bet"
+  },
+  {
+    "p_name": "com.launch.jeeto",
+    "a_name": "Jeeto 88"
+  },
+  {
+    "p_name": "com.fun88.app",
+    "a_name": "Fun 88"
+  },
+  {
+    "p_name": "com.qvivacay.prod",
+    "a_name": "QVI"
+  },
+  {
+    "p_name": "app.naswiz",
+    "a_name": "NASWIZ"
+  },
+  {
+    "p_name": "com.qnet.estore",
+    "a_name": "QNET"
   }
 ]
